@@ -18,7 +18,7 @@ Bu proje BTE307 Eğitimde Modelleme ve Tasarım dersi çerçevesinde geliştiril
 # Projemizin sunucu üzerinde çalışan versiyonunu görüntülemek için https://yunus.hacettepe.edu.tr/~oseyithanoglu/ adresini ziyaret edebilirsiniz.
 
 ########################
-Bu Projede Emeği geçenler:
+# Bu Projede Emeği Geçenler:
 
 # İbrahim Yasin İNAN
 # Ayçanur KAYA
