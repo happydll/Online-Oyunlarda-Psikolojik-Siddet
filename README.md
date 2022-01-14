@@ -15,7 +15,7 @@
 
 # Projemizi Bilgisayarınıza indirdikten index.html dosyasını herhangi bir tarayıcıda açabilirsiniz.
 
-# Projemizin sunucu üzerinde çalışan versiyonunu görüntülemek için https://yunus.hacettepe.edu.tr/~oseyithanoglu/ adresini ziyaret edebilirsiniz.
+# Projemizin sunucu üzerinde çalışan versiyonunu görüntülemek için https://yunus.hacettepe.edu.tr/~yasin_inan/ adresini ziyaret edebilirsiniz.
 
 ########################
 # Bu Projede Emeği Geçenler:
